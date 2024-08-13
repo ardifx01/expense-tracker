@@ -1,6 +1,6 @@
-<p align="center" style="font-size: 32px; font-weight: 700;">
+<h1 align="center">
 Expense Tracker
-</p>
+</h1>
 
 ![Expense Tracker](public/images/preview/preview.jpeg "Expense Tracker")
 
