@@ -1,4 +1,6 @@
-# <center>Expense Tracker</center>
+<p align="center" style="font-size: 32px; font-weight: 700;">
+Expense Tracker
+</p>
 
 ![Expense Tracker](public/images/preview/preview.jpeg "Expense Tracker")
 
