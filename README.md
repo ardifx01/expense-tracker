@@ -1,4 +1,6 @@
-# Expense Tracker
+# <center>Expense Tracker</center>
+
+![Expense Tracker](public/images/preview/preview.jpeg "Expense Tracker")
 
 ## Overview
 
