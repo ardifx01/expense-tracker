@@ -29,7 +29,7 @@ This project is a web application designed to help users manage their finance by
 1. Clone the repository
 
     ```bash
-    git clone https://github.com/rtrivaldo/expense-tracker.git
+    git clone https://github.com/ardifx01/expense-tracker.git
     cd expense-tracker
     ```
 
